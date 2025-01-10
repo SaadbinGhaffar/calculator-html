@@ -1,0 +1,15 @@
+
+
+.outer-container{
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    margin: 10px;
+}
+
+#inputField{
+    text-align: right;
+}
